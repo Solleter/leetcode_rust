@@ -13,9 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d6b85f9-0c3d-4cc7-9e1e-a4650bd40d6f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p1_two_sum.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1_two_sum.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/p2_add_two_numbers.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2_add_two_numbers.rs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +26,13 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -34,12 +40,17 @@
     <option name="directoryName" value="peZebVeZ" />
   </component>
   <component name="ProjectId" id="1S0UreonYB6k0aPseb6nHv5loEt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideDetachedFileNotificationsD:/Solleter/Projects/leetcode_rust/src/p3_length_of_longest_substring.rs" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -81,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570700207165</updated>
-      <workItem from="1570700209030" duration="92000" />
+      <workItem from="1570700209030" duration="5470000" />
     </task>
     <servers />
   </component>
